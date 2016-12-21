@@ -8,15 +8,15 @@ This repository contains demo versions, documentation and serves as an issue tra
 # Unity forum
 
 # Features:
-— Hardware accelerated HAP video playback without any external codecs installation needed.<br>
+— Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
-— Play 4k @ 120 fps, 8k @ 60 fps videos, play multiple videos at once, extremely fast frame-precise seeking.<br>
+— Play 4k @ 120 fps or 8k @ 60 fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
 — Transparent videos with Hap Alpha and Hap Q Alpha codecs. First plugin to support Hap Q Alpha in Unity.<br>
-— Works with the majority of graphics interfaces: DX9, DX11, OpenGL, Metal on desktop platforms. DX12 on the way!<br>
 — Chunked Hap support for even faster multi-threaded decoding.<br>
+— Works with the majority of graphics interfaces: DX9, DX11, OpenGL, Metal on desktop platforms. DX12 on the way!<br>
 — Both 32-bit and 64-bit builds supported! Even on OS X!<br>
-— Audio output through the Unity Native Audio API plugin and AudioSource.<br>
-— Suits for both programmers and artists: C# API, IMGUI/uGUI wrappers provided.<br>
+— Audio output through the Unity Native Audio plugin and AudioSource.<br>
+— Suits for both programmers and artists: C# API along with IMGUI/uGUI wrappers provided.<br>
 — Example scenes with the typical usage scenarios.<br>
 — Free demo version available.<br>
 
