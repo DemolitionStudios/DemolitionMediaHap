@@ -3,10 +3,10 @@
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains demo versions, documentation and serves as an issue tracker.
 
-# [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
-# [Demo version](https://www.dropbox.com/s/87lriqzrq1koke4/DemolitionMediaHap-All-In-One-Demo.unitypackage?dl=1)
-# [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
-# [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
+# [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908){:target="_blank"}
+# [Demo version](https://www.dropbox.com/s/87lriqzrq1koke4/DemolitionMediaHap-All-In-One-Demo.unitypackage?dl=1){:target="_blank"}
+# [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing){:target="_blank"}
+# [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/){:target="_blank"}
 
 # Features:
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
