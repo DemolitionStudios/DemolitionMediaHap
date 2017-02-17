@@ -4,7 +4,7 @@ The industry-proven GPU accelerated Hap video codec playback solution for Unity.
 This repository contains demo versions, documentation and serves as an issue tracker.
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
-# [Demo version](https://www.dropbox.com/s/87lriqzrq1koke4/DemolitionMediaHap-All-In-One-Demo.unitypackage?dl=1)
+# [Demo version](https://dl.orangedox.com/YWNdkwbVID0x70IhPb)
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 
