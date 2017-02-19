@@ -1,7 +1,7 @@
 # Demolition Media Hap
 
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
-This repository contains demo versions, documentation and serves as an issue tracker.
+This repository contains the demo version and serves as an issue tracker.
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
 # [Demo version](https://dl.orangedox.com/YWNdkwbVID0x70IhPb) 
