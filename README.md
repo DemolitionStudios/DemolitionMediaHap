@@ -5,7 +5,7 @@ This repository contains demo versions, documentation and serves as an issue tra
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
 # [Demo version](https://dl.orangedox.com/YWNdkwbVID0x70IhPb) 
-Note: pink stripes appear only in the demo version. In the full Asset Store version you will get crystal clear image.
+Note: **pink stripes appear only in the demo version**. In the full Asset Store version you will get crystal clear image.
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 
