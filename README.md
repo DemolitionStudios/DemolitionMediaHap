@@ -4,12 +4,13 @@ The industry-proven GPU accelerated Hap video codec playback solution for Unity.
 This repository contains the demo version and serves as an issue tracker.
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
-# [Demo version](https://dl.orangedox.com/YWNdkwbVID0x70IhPb) 
-Note: **pink stripes appear only in the demo version**. In the full Asset Store version you will get crystal clear image.
+# [Demo version (0.9.3)](https://dl.orangedox.com/YSpTAfuALz3pxL5Znr)
+Note: **pink stripes effect appear only in the demo version**. In the full Asset Store version you will get crystal clear image.
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 
 # Features:
+— (new) Playback speed control
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play 4k @ 120 fps or 8k @ 60 fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
