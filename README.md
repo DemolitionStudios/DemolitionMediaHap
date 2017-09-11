@@ -5,7 +5,8 @@ This repository contains the demo version and serves as an issue tracker.
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
 # [Demo version (0.9.5)](https://dl.orangedox.com/8LKWBeG86kqVnESl6g)
-Note: **pink stripes effect (shown below) appear only in the demo version**. In the full Asset Store version you will get crystal clear image! <br>
+Note: **pink stripes effect (shown below) appear only in the demo version**.<br>
+In the full Asset Store version you will get crystal clear image! <br>
 ![Demo version view](https://dl.dropboxusercontent.com/s/4nrp0k5945fkhi9/unity_demo_pink_stripes.png "")
 
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
