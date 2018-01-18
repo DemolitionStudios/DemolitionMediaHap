@@ -6,6 +6,8 @@ This repository contains the demo version and serves as an issue tracker.
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
+# [(new) 360° video in HMD example](https://dl.orangedox.com/JDJPwynC1FihcPfRBr)
+Note: you should first import the full or demo package of Demolition Media Hap
 # [Demo version (0.9.5)](https://dl.orangedox.com/8LKWBeG86kqVnESl6g)
 Note: **pink stripes effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version you will get crystal clear image! <br>
