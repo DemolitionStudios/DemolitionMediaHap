@@ -8,7 +8,7 @@ This repository contains the demo version and serves as an issue tracker.
 # [Asset Store page](https://www.assetstore.unity3d.com/#!/content/78908)
 # [(new) 360° video in HMD example](https://dl.orangedox.com/JDJPwynC1FihcPfRBr)
 Note: you should first import the full or demo package of Demolition Media Hap
-# [Demo version (0.9.5)](https://dl.orangedox.com/8LKWBeG86kqVnESl6g)
+# [Demo version (0.9.6)](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
 Note: **pink stripes effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version you will get crystal clear image! <br>
 ![Demo version view](https://dl.dropboxusercontent.com/s/4nrp0k5945fkhi9/unity_demo_pink_stripes.png "")
