@@ -19,7 +19,7 @@ In the full Asset Store version you will get crystal clear image! <br>
 
 # Features:
 — (new) 10k@50fps playback <br>
-— (new) Unity 2017 support <br>
+— (new) Unity 2019 support <br>
 — (new) Non-multiple of 2 video resolutions <br>
 — (new) Playback speed control <br>
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
@@ -35,9 +35,8 @@ In the full Asset Store version you will get crystal clear image! <br>
 — Free demo version available.<br>
 
 # Requirements
-— Unity 5.x or Unity 2017.x<br>
+— Unity 5.x, Unity 2017-2019.x<br>
 — Windows 7/8/10<br>
 — OS X 10.9 and above<br>
-— Linux plugin build is possible<br>
 <br>
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/DemolitionStudios/FFmpeg>here</a>
