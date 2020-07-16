@@ -21,13 +21,13 @@ In the full Asset Store version the image is without any glitches <br>
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 
 # Features:
-— (new) Reworked playback loop - even more smooth playback
-— (new) Improved stability and performance - can play even more videos now
-— (new) Unlocked decode threads number: it scales with the the CPU concurrency capabilities
-— (new) Frees your render and main threads: texture updating is done completely in background threads
-— (new) Better playback speed control
-— (new) Multichannel audio support (5.1 has been tested)
-— (new) Only 10Mb required for the plugin DLLs
+— (new) Reworked playback loop - even more smooth playback<br>
+— (new) Improved stability and performance - can play even more videos now<br>
+— (new) Unlocked decode threads number: it scales with the the CPU concurrency capabilities<br>
+— (new) Frees your render and main threads: texture updating is done completely in background threads<br>
+— (new) Better playback speed control<br>
+— (new) Multichannel audio support (5.1 has been tested)<br>
+— (new) Only 10Mb required for the plugin DLLs<br>
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play 4k @ 120 fps or 8k @ 60 fps or 10k @ 50fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
