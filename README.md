@@ -14,7 +14,7 @@ Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![Demo version view](https://dl.dropboxusercontent.com/s/u1xl4a03bm39xim/unity_demo_2020_glitch.png "")
 
-## [Demo version (0.9.6) - deprecated](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
+### [Demo version (0.9.6) - deprecated](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
 
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
