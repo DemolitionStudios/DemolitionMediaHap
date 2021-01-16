@@ -3,6 +3,9 @@
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains the demo version and serves as an issue tracker.
 
+(new) **Much better quality with the new Hap R codec. It's really close to the original video now!<br>
+[Quality comparison & encoder](https://jokyohapencoder.com/jokyo-hap-meencoder-hap-encoder-plugin-for-adobe-media-encoder-and-premiere-pro/)**<br>
+
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # [Asset Store page](http://u3d.as/1Xw5)
@@ -11,14 +14,12 @@ Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![Demo version view](https://dl.dropboxusercontent.com/s/u1xl4a03bm39xim/unity_demo_2020_glitch.png "")
 
-# [Demo version (0.9.6) - deprecated](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
-Note: **pink stripes effect (shown below) appear only in the demo version**.<br>
-In the full Asset Store version the image is without any glitches <br>
-![Demo version view](https://dl.dropboxusercontent.com/s/4nrp0k5945fkhi9/unity_demo_pink_stripes.png "")
+## [Demo version (0.9.6) - deprecated](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
 
-# [(new) Hap data rate calculator](http://demolition-studios.net/hap-calculator)
 # [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 # [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
+# [(new) A better encoder for Abode AfterEffects/Premiere Pro](https://jokyohapencoder.com/)
+# [Hap data rate calculator](http://demolition-studios.net/hap-calculator)
 
 # Features:
 — (new) Reworked playback loop - even more smooth playback<br>
