@@ -13,7 +13,7 @@ This repository contains the demo version and serves as an issue tracker.
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 ## [(new) A better encoder for Abode AfterEffects/Premiere Pro](https://jokyohapencoder.com/)
-## [Hap data rate calculator](http://demolition-studios.net/hap-calculator)
+## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html)
 
 # [Demo version (1.0.0 beta)](https://dl.orangedox.com/4ZxeAJ)
 Note: **glitch effect (shown below) appear only in the demo version**.<br>
