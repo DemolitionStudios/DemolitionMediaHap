@@ -1,4 +1,4 @@
-# Demolition Media Hap 2020
+# Demolition Media Hap
 
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains the demo version and serves as an issue tracker.
