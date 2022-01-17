@@ -38,7 +38,7 @@ In the full Asset Store version the image is without any glitches <br>
 — Transparent videos with Hap Alpha and Hap Q Alpha codecs. First plugin to support Hap Q Alpha in Unity.<br>
 — Chunked Hap support for even faster multi-threaded decoding.<br>
 — Non-multiple of 2 video resolutions <br>
-— Only Windows/DX11 works at the moment in 2020 version ~~Works with the majority of graphics interfaces: DX9, DX11, OpenGL, Metal on desktop platforms. DX12 on the way!~~<br>
+— Only Windows/DX11 works in the latest version. Request others via demolition.studios.rocks@gmail.com ~~Works with the majority of graphics interfaces: DX9, DX11, OpenGL, Metal on desktop platforms. DX12 on the way!~~<br>
 — ~~Both 32-bit and 64-bit builds supported! Even on OS X!~~<br>
 — Audio output through the Unity Native Audio plugin and AudioSource.<br>
 — Suits for both programmers and artists: C# API along with IMGUI/uGUI wrappers provided.<br>
