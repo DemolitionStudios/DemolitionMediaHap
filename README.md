@@ -18,7 +18,7 @@ This repository contains the demo version and serves as an issue tracker.
 ## [(updated) Demo version (1.2.0)](https://1drv.ms/u/s!AhRsdPdtJl1uhp0g5pEs0kNHqYZvPQ?e=hV0oYY)
 Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
-![Demo version view](https://dl.dropboxusercontent.com/s/u1xl4a03bm39xim/unity_demo_2020_glitch.png "")
+![Demo version view](https://am3pap002files.storage.live.com/y4m8hayD8bD3nKWpfxlBTkN8mFHEmT_jELrUUIF_Uc-sduDILVrl99meEAueUIdH9natGUg1_NZncqBa5oPaeH56Ct3GwGUOrCOn_qzlx4n9GAqZYdrA4ubkx7z_k9hOiJAA1ixkVZVds1NwlUQc0wkCV0oWiXBMd21GuxryNEjip91ANM6PkcpCZYjkFqy4DhN?width=1566&height=884&cropmode=none "")
 
 
 
