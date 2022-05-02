@@ -15,12 +15,10 @@ This repository contains the demo version and serves as an issue tracker.
 ## [(new) A better encoder for Abode AfterEffects/Premiere Pro](https://jokyohapencoder.com/)
 <!---## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html))--->
 
-# [Demo version (1.0.0)](https://dl.orangedox.com/4ZxeAJ)
+# [(updated) Demo version (1.2.0)](https://1drv.ms/u/s!AhRsdPdtJl1uhp0g5pEs0kNHqYZvPQ?e=hV0oYY)
 Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![Demo version view](https://dl.dropboxusercontent.com/s/u1xl4a03bm39xim/unity_demo_2020_glitch.png "")
-
-##### [Demo version (0.9.6) - deprecated](https://dl.orangedox.com/P0jMYbmwyFxigMDQ8j)
 
 
 
