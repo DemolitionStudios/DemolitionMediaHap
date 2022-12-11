@@ -9,13 +9,14 @@ This repository contains the demo version and serves as an issue tracker.
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # Useful links
-## [Asset Store page](http://u3d.as/1Xw5)
+## [Asset Store page](https://u3d.as/2W1t)
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
+## [Download FFmpeg libraries](https://1drv.ms/u/s!AhRsdPdtJl1uhrtY1mXk1B6isj674Q?e=KfBFrL)
 ## [(new) A better encoder for Abode AfterEffects/Premiere Pro](https://jokyohapencoder.com/)
 <!---## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html))--->
 
-## [(updated) Demo version (1.2.0)](https://1drv.ms/u/s!AhRsdPdtJl1uhp0g5pEs0kNHqYZvPQ?e=hV0oYY)
+## [(updated) Demo version (2.0.1)](https://1drv.ms/u/s!AhRsdPdtJl1uhrs2NlD_HRbkeUtoew?e=7RfM5r)
 Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![Demo version view](https://am3pap002files.storage.live.com/y4m8hayD8bD3nKWpfxlBTkN8mFHEmT_jELrUUIF_Uc-sduDILVrl99meEAueUIdH9natGUg1_NZncqBa5oPaeH56Ct3GwGUOrCOn_qzlx4n9GAqZYdrA4ubkx7z_k9hOiJAA1ixkVZVds1NwlUQc0wkCV0oWiXBMd21GuxryNEjip91ANM6PkcpCZYjkFqy4DhN?width=1566&height=884&cropmode=none "")
