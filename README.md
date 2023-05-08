@@ -3,9 +3,6 @@
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains the demo version and serves as an issue tracker.
 
-(new) **Much better quality with the new Hap R codec. It's really close to the original video now!<br>
-[Quality comparison & encoder](https://jokyohapencoder.com/jokyo-hap-meencoder-hap-encoder-plugin-for-adobe-media-encoder-and-premiere-pro/)**<br>
-
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # Useful links
@@ -25,13 +22,13 @@ In the full Asset Store version the image is without any glitches <br>
 
 
 # Features:
+— (new) Much better quality with the new Hap R codec. It's really close to the original video now!<br>
 — (new) Reworked playback loop - even more smooth playback<br>
 — (new) Improved stability and performance - can play even more videos now<br>
 — (new) Unlocked decode threads number: it scales with the the CPU concurrency capabilities<br>
 — (new) Frees your render and main threads: texture updating is done completely in background threads<br>
 — (new) Better playback speed control<br>
 — (new) Multichannel audio support (5.1 has been tested)<br>
-— (new) Only 10Mb required for the plugin DLLs<br>
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play 4k @ 120 fps or 8k @ 60 fps or 10k @ 50fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
