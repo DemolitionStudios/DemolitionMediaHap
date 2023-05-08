@@ -13,7 +13,7 @@ This repository contains the demo version and serves as an issue tracker.
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
 ## [Download FFmpeg libraries](https://1drv.ms/u/s!AhRsdPdtJl1uhrtY1mXk1B6isj674Q?e=KfBFrL)
-## [(new) Standalone encoder with new Hap R codec](https://github.com/DemolitionStudios/shutter-encoder)
+## [(new) Optimized standalone encoder with new Hap R codec](https://github.com/DemolitionStudios/shutter-encoder)
 ## [Encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
 <!---## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html))--->
 
