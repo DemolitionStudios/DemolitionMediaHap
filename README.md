@@ -35,7 +35,6 @@ In the full Asset Store version the image is without any glitches <br>
 — Transparent videos with Hap Alpha and Hap Q Alpha codecs. First plugin to support Hap Q Alpha in Unity.<br>
 — Chunked Hap support for even faster multi-threaded decoding.<br>
 — Non-multiple of 2 video resolutions <br>
-— ~~Both 32-bit and 64-bit builds supported! Even on OS X!~~<br>
 — Audio output through the Unity Native Audio plugin and AudioSource.<br>
 — Suits for both programmers and artists: C# API along with IMGUI/uGUI wrappers provided.<br>
 — Example scenes with the typical usage scenarios.<br>
