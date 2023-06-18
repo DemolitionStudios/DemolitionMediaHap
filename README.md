@@ -13,7 +13,7 @@ This repository contains the demo version and serves as an issue tracker.
 ## [Encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
 <!---## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html))--->
 
-# [(updated) Demo version (3.0.0)](https://mega.nz/file/vZYWVaSI#Xe2mdwayDbSFp16Dlddv2JRn9Jxr0sNK9MnYQGQ1AGg)
+# [(updated) Demo version (3.0.0)](https://mega.nz/file/HBAUBRSQ#jCUQleoWp8zTggov-neyNed_GafAgHzPWUtrGF-OTx8)
 Note: **glitch effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![Demo version view](https://am3pap002files.storage.live.com/y4m8hayD8bD3nKWpfxlBTkN8mFHEmT_jELrUUIF_Uc-sduDILVrl99meEAueUIdH9natGUg1_NZncqBa5oPaeH56Ct3GwGUOrCOn_qzlx4n9GAqZYdrA4ubkx7z_k9hOiJAA1ixkVZVds1NwlUQc0wkCV0oWiXBMd21GuxryNEjip91ANM6PkcpCZYjkFqy4DhN?width=1566&height=884&cropmode=none "")
