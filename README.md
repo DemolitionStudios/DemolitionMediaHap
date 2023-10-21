@@ -1,4 +1,4 @@
-# Demolition Media Hap
+![image](https://github.com/DemolitionStudios/DemolitionMediaHap/assets/33001/a15fd165-43eb-4f0e-aefc-704d850d9f19)# Demolition Media Hap
 
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains the demo version and serves as an issue tracker.
@@ -7,16 +7,19 @@ This repository contains the demo version and serves as an issue tracker.
 
 # Useful links
 ## [Asset Store page](https://u3d.as/2W1t)
+## [Sample videos](https://mega.nz/folder/DAp1GThA#Iy-KDvLD-io6NOqW6WRKbQ)
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
-## [(new) Optimized standalone encoder with new Hap R codec](https://github.com/DemolitionStudios/shutter-encoder)
+## [(new) Optimized standalone encoder with new Hap R/Hap H codecs](https://github.com/DemolitionStudios/shutter-encoder)
 ## [Encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
 <!---## [Hap data rate calculator](https://demolitionstudios.github.io/hap-data-rate-calculator.html))--->
 
-# [(updated) Demo version (3.0.0)](https://mega.nz/file/HBAUBRSQ#jCUQleoWp8zTggov-neyNed_GafAgHzPWUtrGF-OTx8)
-Note: **glitch effect (shown below) appear only in the demo version**.<br>
+# [(updated) Demo version (3.1.0)](https://mega.nz/file/TQAQCTpJ#NyxGoJYY3aScNIr8-APSqbBcrcZ7AMokvKQE9pzpXVU)
+Note: **watermark effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
-![Demo version view](https://am3pap002files.storage.live.com/y4m8hayD8bD3nKWpfxlBTkN8mFHEmT_jELrUUIF_Uc-sduDILVrl99meEAueUIdH9natGUg1_NZncqBa5oPaeH56Ct3GwGUOrCOn_qzlx4n9GAqZYdrA4ubkx7z_k9hOiJAA1ixkVZVds1NwlUQc0wkCV0oWiXBMd21GuxryNEjip91ANM6PkcpCZYjkFqy4DhN?width=1566&height=884&cropmode=none "")
+![image](https://github.com/DemolitionStudios/DemolitionMediaHap/assets/33001/9ba93a1e-f0fd-4050-9c52-cd0ff5b2c199)
+
+
 
 
 
