@@ -6,7 +6,9 @@ This repository contains the demo version and serves as an issue tracker.
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # Useful links
-## [Asset Store page](https://u3d.as/2W1t)
+## [Asset Store page (windows)](https://u3d.as/2W1t)
+## [Asset Store page (linux)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-2022-linux-268419)
+
 ## [Sample videos](https://mega.nz/folder/DAp1GThA#Iy-KDvLD-io6NOqW6WRKbQ)
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
