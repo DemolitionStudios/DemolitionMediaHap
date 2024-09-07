@@ -1,4 +1,4 @@
-![image](https://github.com/DemolitionStudios/DemolitionMediaHap/assets/33001/a15fd165-43eb-4f0e-aefc-704d850d9f19)# Demolition Media Hap
+![image](https://github.com/DemolitionStudios/DemolitionMediaHap/assets/33001/a15fd165-43eb-4f0e-aefc-704d850d9f19)
 
 The industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 This repository contains the demo version and serves as an issue tracker.
