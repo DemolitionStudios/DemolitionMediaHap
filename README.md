@@ -44,6 +44,6 @@ In the full Asset Store version the image is without any glitches <br>
 
 # Requirements
 — Unity 2019-2023<br>
-— Windows 8.1/10<br>
+— Windows 8.1 or newer<br>
 <br>
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/DemolitionStudios/FFmpeg>here</a>
