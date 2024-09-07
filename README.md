@@ -4,9 +4,6 @@ This repository contains the demo version and serves as an issue tracker.
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
 
 # Useful links
-## [Asset Store page (windows)](https://u3d.as/2W1t)
-## [Asset Store page (linux)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-2022-linux-268419)
-## [Asset Store page (Pro GPU, windows)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-gpu-windows-273580) | [Demo version](https://mega.nz/file/7IQVxLZa#pvs4wkHfst8UZuq-U44ggm1ZvcS0ikDygdYR97SIDJs)
 ## [Sample videos](https://mega.nz/folder/DAp1GThA#Iy-KDvLD-io6NOqW6WRKbQ)
 ## [Documentation](https://docs.google.com/document/d/1fck8NRF_h5w_XbArmyuprLz1m2hY27W-sOqQB1cvqZs/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity3d.com/threads/released-demolition-media-hap-multi-platform-8k-60fps-gpu-video-playback.456068/)
@@ -18,6 +15,9 @@ This repository contains the demo version and serves as an issue tracker.
 Note: **watermark effect (shown below) appear only in the demo version**.<br>
 In the full Asset Store version the image is without any glitches <br>
 ![image](https://github.com/DemolitionStudios/DemolitionMediaHap/assets/33001/9ba93a1e-f0fd-4050-9c52-cd0ff5b2c199)
+## [Asset Store page (windows)](https://u3d.as/2W1t)
+## [Asset Store page (linux)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-2022-linux-268419)
+## [Asset Store page (Pro GPU, windows)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-gpu-windows-273580) | [Demo version](https://mega.nz/file/7IQVxLZa#pvs4wkHfst8UZuq-U44ggm1ZvcS0ikDygdYR97SIDJs)
 
 
 
